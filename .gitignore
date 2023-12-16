@@ -1,4 +1,4 @@
 *.o
 *.hi
-input.txt
+*.txt
 run
